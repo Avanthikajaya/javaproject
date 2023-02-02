@@ -6,7 +6,7 @@ public class Gitbash {
 		System.out.println("java");
 		System.out.println("python");
 		System.out.println("sql");
-		System.out.println("pearl");
+		System.out.println("ruby");
 	}
 
 }
